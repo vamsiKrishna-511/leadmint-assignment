@@ -1,3 +1,5 @@
+//I HAVE CREATED BY USING JAVASCRIPT, NODE.JS, EXPRESS AND SOCKET.IO. I HAVE CREATED ALL TABLES.
+
 //user registration
 
 http://localhost:3000/api/register
@@ -78,6 +80,15 @@ request type : POST
 URL: http://localhost:3000/api/friend-requests
 
 Headers tab and add a new header: Authorization with the value Bearer YOUR_JWT_TOKEN
+
+
+//SCREEN SHOTS
+![Capture](https://github.com/vamsiKrishna-511/leadmint-assignment/assets/116443206/eda84878-a33b-4aeb-a578-ab6ae7b1e33b)
+
+![Capture2](https://github.com/vamsiKrishna-511/leadmint-assignment/assets/116443206/332acdc7-510d-4d7f-9eed-1b91170e4ae2)
+
+
+
 
 
 Enter JSON data
